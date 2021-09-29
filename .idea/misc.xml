@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/FootballApps/app/src/main/res/drawable-v24/ic_football.xml" value="0.1" />
         <entry key="..\:/Users/Asus/AndroidStudioProjects/FootballApps/app/src/main/res/layout/activity_main.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/FootballApps/app/src/main/res/layout/fragment_favorites_matches.xml" value="0.103125" />
+        <entry key="..\:/Users/Asus/AndroidStudioProjects/FootballApps/app/src/main/res/layout/fragment_matches_events.xml" value="0.1" />
       </map>
     </option>
   </component>
