@@ -1,4 +1,5 @@
 package org.d3if4034.footballapps.utils
 
-class TypeMatches {
+enum class TypeMatches {
+    NEXT, LAST
 }
